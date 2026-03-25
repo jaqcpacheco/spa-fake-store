@@ -29,20 +29,20 @@ Aplicação web desenvolvida em **JavaScript Vanilla** que consome a Fake Store 
 
 ```
 /components
-  Header.js
   Card.js
+  Header.js
   Loader.js
 
 /pages
-  Home.js
   Favorites.js
+  Home.js
 
 /services
   api.js
 
 /utils
-  storage.js
   router.js
+  storage.js
 
 index.html
 main.js
